@@ -1,10 +1,4 @@
-# MIST Group Project
-
-
-# Team:
-Group 2 - 71552
-
-
+# MIST Group Project - Group 2 71552
 
 # Team Members:
 * Ayush Aggarwal, @?
