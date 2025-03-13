@@ -1,31 +1,35 @@
 # mist4610
 
-# Team Name:
-Group 2
+# Team:
+Group 2 - 71552
 
 # Team Members:
-Chen, Jennie @JennieC044
-Ferington, Nick @NickFer5
-Lawler, Elena @eglawler03
-Pham, Shawn @ShawnPham21
-Sadalge, Roshni @roshnisadalge07
+Ayush Aggarwal, @?
+"Palak Joshi, @?
+Soha Nathani, @?
+Vinay Polaku, @?
+Christine Shen, @?
 
 
-# Project Title
+# Scenario Description
 
 A brief description of what this project does and who it's for
 
 
-## Authors
+# Data Model
 
 - [@octokatherine](https://www.github.com/octokatherine)
 
 
-## 🚀 About Me
+# Data Dictionary
 I'm a full stack developer...
 
 
-## Other Common Github Profile Sections
+# Queries
+
+## Simple Queries
+
+## Complex Queries
 👩‍💻 I'm currently working on...
 
 
