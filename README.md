@@ -1,12 +1,11 @@
 # MIST Group Project - Group 2 71552
 
 # Team Members:
-* Ayush Aggarwal, [@ayu086](https://github.com/ayu086/group-project-1)
+* Ayush Aggarwal, [@ayu086](https://github.com/ayu086)
 * Palak Joshi, [@pal-jo](https://github.com/pal-jo/mist4610)
-* Soha Nathani, [SohaNathani16](https://github.com/SohaNathani16/mist4610)
-* Vinay Polaku, [vinay-polaku](https://github.com/vinay-polaku/mist4610project)
-* Christine Shen, [@xixi922](https://github.com/xixi922/group2-project?tab=readme-ov-file#group2-project)
-  
+* Soha Nathani, [SohaNathani16](https://github.com/SohaNathani16)
+* Vinay Polaku, [vinay-polaku](https://github.com/vinay-polaku)
+* Christine Shen, [@xixi922](https://github.com/xixi922)
 
 
 # Scenario Description
