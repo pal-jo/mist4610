@@ -27,6 +27,7 @@ Additionally, the Guest entity and Reservation have a one-to-many relationship i
 Each Reservation has a Payment record that contains details like the date and mode of payment because the Payment entity maintains transaction data and has a one-to-one relationship with the Reservation.
 
 The Hotel and the Staff entity have a one-to-many relationship, meaning that a hotel may have several employees who are all affiliated with the same hotel. This makes it possible for hotels to more effectively manage their workforce and work assignments.
+  
 <img width="542" alt="image" src="https://github.com/user-attachments/assets/f7312931-8158-439e-9fb7-78a0849394e5" />
 
 
@@ -70,28 +71,43 @@ This query adds up all the outstanding payments from reservations where the paym
 
 Query 1 ~ 
 This query helps managers identify which room types are the most frequently booked. By knowing which room types are in high demand, managers can make informed decisions about pricing, promotions, and even which room types to prioritize for maintenance or upgrades. The results are ordered from the most booked to the least booked, making it easy to see which room types are the most popular.
+  
 <img width="543" alt="image" src="https://github.com/user-attachments/assets/99050853-11a5-4673-b9b0-c2b4c3c09856" />
+
+----------------------------------------------------------------------------------------------------
 
 Query 2 ~ 
 This query provides insights into the total revenue generated for each check-in date. By analyzing this data, managers can identify peak booking periods and understand revenue trends over time. This information is crucial for planning staffing levels, setting room rates, and optimizing marketing strategies to maximize revenue during high-demand periods.
+  
 <img width="649" alt="image" src="https://github.com/user-attachments/assets/9fc198d8-b62c-4a1e-91d9-d79e490abfe9" />
+
+----------------------------------------------------------------------------------------------------
 
 Query 3 ~ 
 This query helps managers identify the top loyal guests by spending. This can allow hotel managers to identify which customer relationships are strong and encourage repeat business, customer satisfaction and overall revenue. It also allows hotels to focus marketing efforts on high-value guests, maximizing profitability.
+  
 <img width="1266" alt="image" src="https://github.com/user-attachments/assets/c5563e30-fb80-40d2-9331-4a1732929d9c" />
 <img width="208" alt="image" src="https://github.com/user-attachments/assets/0b955c45-2e07-4b59-a52c-e72e41171304" />
 
+----------------------------------------------------------------------------------------------------
 
 Query 4 ~ 
 This query calculates the occupancy rate, which is the percentage of rooms that are currently occupied. By knowing the occupancy rate, managers can assess how well the hotel is utilizing its available rooms. This information is crucial for making decisions about pricing strategies, marketing efforts, and even potential expansions or renovations to meet demand
+  
 <img width="754" alt="image" src="https://github.com/user-attachments/assets/b9994d3b-c536-4cc5-8caf-28e365d72abe" />
+
+----------------------------------------------------------------------------------------------------
 
 Query 5 ~ 
 This query identifies the busiest month for hotel bookings. Understanding which month has the highest number of bookings helps managers prepare for peak periods by ensuring adequate staffing, inventory, and services. It also aids in planning promotional activities and optimizing room rates to maximize revenue during high-demand times.
+  
 <img width="610" alt="image" src="https://github.com/user-attachments/assets/799c6740-91f8-4f01-808f-8a4687e05c30" />
+
+----------------------------------------------------------------------------------------------------
 
 Query 6 ~ 
 This query lists the hotel name along with the highest paid staff member. By identifying the highest paid employee, managers can review compensation structures and ensure that salaries are competitive and aligned with the employee's role and performance. This information can also be useful for budgeting and financial planning within the hotel.
+  
 <img width="678" alt="image" src="https://github.com/user-attachments/assets/1e6bae3b-28d1-4d4a-908d-467f37e233e7" />
 
 
