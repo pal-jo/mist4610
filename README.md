@@ -1,12 +1,12 @@
 # MIST Group Project - Group 2 71552
 
 # Team Members:
-* Ayush Aggarwal, @?
-* Palak Joshi, @?
-* Soha Nathani, @?
-* Vinay Polaku, @?
-* Christine Shen, @?
-
+* Ayush Aggarwal, [@ayu086](https://github.com/ayu086/group-project-1)
+* Palak Joshi, [@pal-jo](https://github.com/pal-jo/mist4610)
+* Soha Nathani, [@SohaNathani16](https://github.com/SohaNathani16/mist-4610)
+* Vinay Polaku, [@vinay-polaku](https://github.com/vinay-polaku/mist4610)
+* Christine Shen, [@xixi922](https://github.com/xixi922/group2-project?tab=readme-ov-file#group2-project)
+  
 
 
 # Scenario Description
@@ -47,7 +47,7 @@ This query retrieves all records from the “room” table where the “room_ava
 
 ----------------------------------------------------------------------------------------------------
 Query 2 ~ 
-This query retrieves all reservations associated with a specific guest. It returns details such as check-in/check-out dates, room type, and payment status. Tracking guest reservations allows managers to provide services to repeat guests. It can also resolve problems related to past bookings and ensure VIP guests or loyal customers receive priority services. Moreover, it can identify booking trends for specific customers to offer promotions or discounts.
+This query pulls up all reservations linked to a specific guest, showing details like check-in/check-out dates, room type, and payment status. Keeping track of guest reservations helps managers offer better service to returning guests, quickly resolve past booking issues, and make sure VIPs or loyal customers get priority treatment. Plus, it helps spot booking trends so hotels can offer special promotions or discounts to frequent guests.
 
 <img width="780" alt="image" src="https://github.com/user-attachments/assets/d3e03c47-9101-4c77-a241-7f7c881e5648" />
 
@@ -61,7 +61,7 @@ This query calculates the total outstanding payment amount from all reservations
 ----------------------------------------------------------------------------------------------------
 
 Query 4 ~ 
-This query counts the total number of guests registered in the hotel's system, including both past and current guests. Understanding the total guest count helps managers analyze customer demographics and trends. This also allows them to Measure hotel popularity and retention rates, plan for staffing requirements based on guest volume, and evaluate the success of marketing and loyalty programs.
+This query calculates the total number of guests in the hotel's system, including both past and current visitors. Knowing the total guest count helps managers understand customer trends and demographics. It also gives insight into hotel popularity, retention rates, and staffing needs while helping evaluate the effectiveness of marketing and loyalty programs.
 
 <img width="668" alt="image" src="https://github.com/user-attachments/assets/b3fb97ba-76cc-4572-8d6f-3f5eeaa3eb87" />
 
