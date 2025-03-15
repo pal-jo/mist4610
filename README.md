@@ -50,7 +50,7 @@ This query retrieves all records from the “room” table where the “room_ava
 Query 2 ~ 
 This query pulls up all reservations linked to a specific guest, showing details like check-in/check-out dates, room type, and payment status. Keeping track of guest reservations helps managers offer better service to returning guests, quickly resolve past booking issues, and make sure VIPs or loyal customers get priority treatment. Plus, it helps spot booking trends so hotels can offer special promotions or discounts to frequent guests.
 
-<img width="808" alt="image" src="https://github.com/user-attachments/assets/3e09d960-0933-4acf-8e79-5ff801e50884" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/59bbb5d3-3bee-4e1d-aafd-c69d67ed7569" /> 
 
 ----------------------------------------------------------------------------------------------------
 
