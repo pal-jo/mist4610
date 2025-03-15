@@ -3,7 +3,7 @@
 # Team Members:
 * Ayush Aggarwal, [@ayu086](https://github.com/ayu086/group-project-1)
 * Palak Joshi, [@pal-jo](https://github.com/pal-jo/mist4610)
-* Soha Nathani, [@SohaNathani16](https://github.com/SohaNathani16/mist-4610)
+* Soha Nathani, [SohaNathani16](https://github.com/SohaNathani16/mist4610)
 * Vinay Polaku, [@vinay-polaku](https://github.com/vinay-polaku/mist4610)
 * Christine Shen, [@xixi922](https://github.com/xixi922/group2-project?tab=readme-ov-file#group2-project)
   
