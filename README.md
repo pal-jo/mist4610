@@ -2,7 +2,7 @@
 
 # Team Members:
 * Ayush Aggarwal, [@ayu086](https://github.com/ayu086)
-* Palak Joshi, [@pal-jo](https://github.com/pal-jo/mist4610)
+* Palak Joshi, [@pal-jo](https://github.com/pal-jo)
 * Soha Nathani, [SohaNathani16](https://github.com/SohaNathani16)
 * Vinay Polaku, [vinay-polaku](https://github.com/vinay-polaku)
 * Christine Shen, [@xixi922](https://github.com/xixi922)
