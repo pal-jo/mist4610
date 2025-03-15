@@ -43,53 +43,53 @@ The Hotel and the Staff entity have a one-to-many relationship, meaning that a h
 Query 1 ~ 
 This query retrieves all records from the “room” table where the “room_availability” column is marked as "Available." This means it fetches details of all rooms that are currently unoccupied and can be booked. A hotel manager needs to monitor room availability to optimize occupancy rates. By knowing which rooms are available, they can assign rooms to incoming guests efficiently. It also enables them to plan marketing strategies to promote vacant rooms and coordinate with housekeeping to prepare rooms for future bookings.
 
-<img width="525" alt="image" src="https://github.com/user-attachments/assets/27910753-239d-4ee3-a820-7b48ac9f1f82" />
+<img width="809" alt="image" src="https://github.com/user-attachments/assets/cb9c7c4c-daaa-470f-8d60-89688bebb19b" />
 
 ----------------------------------------------------------------------------------------------------
 Query 2 ~ 
 This query pulls up all reservations linked to a specific guest, showing details like check-in/check-out dates, room type, and payment status. Keeping track of guest reservations helps managers offer better service to returning guests, quickly resolve past booking issues, and make sure VIPs or loyal customers get priority treatment. Plus, it helps spot booking trends so hotels can offer special promotions or discounts to frequent guests.
 
-<img width="780" alt="image" src="https://github.com/user-attachments/assets/d3e03c47-9101-4c77-a241-7f7c881e5648" />
+<img width="808" alt="image" src="https://github.com/user-attachments/assets/3e09d960-0933-4acf-8e79-5ff801e50884" />
 
 ----------------------------------------------------------------------------------------------------
 
 Query 3 ~ 
 This query calculates the total outstanding payment amount from all reservations where the payment status is marked as "Pending." Managing pending payments is crucial for financial stability. A manager would use this information to follow up with guests who have unpaid balances. They could also assess financial performance and cash flow, implement strategies like upfront payments or payment reminders to reduce outstanding dues. This also allows theme to identify potential risks of non-payment and take necessary actions.
 
-<img width="761" alt="image" src="https://github.com/user-attachments/assets/cb4f77a4-c681-4534-a3cd-dfaf80b5f4cc" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6ead87f8-0e7f-4a69-9357-3049b4063083" />
 
 ----------------------------------------------------------------------------------------------------
 
 Query 4 ~ 
 This query adds up all the outstanding payments from reservations where the payment status is "Pending." Keeping track of pending payments is super important for financial stability. A manager could use this info to follow up with guests who haven’t paid yet, check on overall financial performance, and improve cash flow. They might also come up with strategies like requiring upfront payments or sending reminders to reduce unpaid balances. Plus, it helps them spot potential risks of non-payment and take action before it becomes a bigger issue.
 
-<img width="668" alt="image" src="https://github.com/user-attachments/assets/b3fb97ba-76cc-4572-8d6f-3f5eeaa3eb87" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3f194de9-0fc1-4524-98ef-8d9252f18021" />
 
 
 ## Complex Queries
 
 Query 1 ~ 
-???? insert explanation ????
+This query helps managers identify which room types are the most frequently booked. By knowing which room types are in high demand, managers can make informed decisions about pricing, promotions, and even which room types to prioritize for maintenance or upgrades. The results are ordered from the most booked to the least booked, making it easy to see which room types are the most popular.
 ???? insert images ????
 
 Query 2 ~ 
-???? insert explanation ????
+This query provides insights into the total revenue generated for each check-in date. By analyzing this data, managers can identify peak booking periods and understand revenue trends over time. This information is crucial for planning staffing levels, setting room rates, and optimizing marketing strategies to maximize revenue during high-demand periods.
 ???? insert images ????
 
 Query 3 ~ 
-???? insert explanation ????
+This query helps managers identify guests who have booked more than three times. Recognizing frequent guests allows managers to implement loyalty programs or offer special promotions to encourage repeat business. Additionally, understanding the booking patterns of loyal guests can help in personalizing their experience and improving customer satisfaction
 ???? insert images ????
 
 Query 4 ~ 
-???? insert explanation ????
+This query calculates the occupancy rate, which is the percentage of rooms that are currently occupied. By knowing the occupancy rate, managers can assess how well the hotel is utilizing its available rooms. This information is crucial for making decisions about pricing strategies, marketing efforts, and even potential expansions or renovations to meet demand
 ???? insert images ????
 
 Query 5 ~ 
-???? insert explanation ????
+This query identifies the busiest month for hotel bookings. Understanding which month has the highest number of bookings helps managers prepare for peak periods by ensuring adequate staffing, inventory, and services. It also aids in planning promotional activities and optimizing room rates to maximize revenue during high-demand times.
 ???? insert images ????
 
 Query 6 ~ 
-???? insert explanation ????
+This query lists the hotel name along with the highest paid staff member. By identifying the highest paid employee, managers can review compensation structures and ensure that salaries are competitive and aligned with the employee's role and performance. This information can also be useful for budgeting and financial planning within the hotel.
 ???? insert images ????
 
 
