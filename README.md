@@ -62,7 +62,7 @@ This query calculates the total outstanding payment amount from all reservations
 ----------------------------------------------------------------------------------------------------
 
 Query 4 ~ 
-This query adds up all the outstanding payments from reservations where the payment status is "Pending." Keeping track of pending payments is super important for financial stability. A manager could use this info to follow up with guests who haven’t paid yet, check on overall financial performance, and improve cash flow. They might also come up with strategies like requiring upfront payments or sending reminders to reduce unpaid balances. Plus, it helps them spot potential risks of non-payment and take action before it becomes a bigger issue.
+This query calculates the total number of guests in the hotel's system, including both past and current visitors. Knowing the total guest count helps managers understand customer trends and demographics. It also gives insight into hotel popularity, retention rates, and staffing needs while helping evaluate the effectiveness of marketing and loyalty programs.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/3f194de9-0fc1-4524-98ef-8d9252f18021" />
 
