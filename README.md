@@ -115,5 +115,5 @@ This query lists the hotel name along with the highest paid staff member. By ide
 
 # Database Information
 
-<img width="830" alt="image" src="https://github.com/user-attachments/assets/1011ffa4-ad4c-4a4b-b22e-8325b0cf2d34" />
+<img width="835" alt="IMG_9123" src="https://github.com/user-attachments/assets/bc9ea31b-4e5f-49d7-84d5-a6e6bc7fbdce" />
 
