@@ -42,9 +42,11 @@ The Hotel and the Staff entity have a one-to-many relationship, meaning that a h
 ## Simple Queries
 
 Query 1 ~ 
-This query retrieves all records from the “room” table where the “room_availability” column is marked as "Available." This means it fetches details of all rooms that are currently unoccupied and can be booked. A hotel manager needs to monitor room availability to optimize occupancy rates. By knowing which rooms are available, they can assign rooms to incoming guests efficiently. It also enables them to plan marketing strategies to promote vacant rooms and coordinate with housekeeping to prepare rooms for future bookings.
+This query provides the most common payment method helps hotels streamline transactions, optimize payment processing systems, and reduce operational inefficiencies. It also allows them to offer preferred payment options, enhancing customer convenience and satisfaction. Additionally, it provides insights for strategic partnerships with payment providers or loyalty programs.
 
-<img width="809" alt="image" src="https://github.com/user-attachments/assets/cb9c7c4c-daaa-470f-8d60-89688bebb19b" />
+<img width="502" alt="IMG_4616" src="https://github.com/user-attachments/assets/91a9618f-13a3-4cf3-b87f-6d6919d47d3d" />
+<img width="198" alt="IMG_6469" src="https://github.com/user-attachments/assets/f8e1c6fe-866a-47a8-9b60-b7cf54d04e5c" />
+
 
 ----------------------------------------------------------------------------------------------------
 Query 2 ~ 
